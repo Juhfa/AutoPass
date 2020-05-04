@@ -1,0 +1,14 @@
+#+TITLE: AutoPass
+#+LANG: Python
+#+AUTHOR: Joshua Bonhage (Juhfa)
+---------------------------------------
+
+* Overview:
+AutoPass is a terminal based password generator.
+
+
+** Key Functions:
+- Simplistic
+- Generates passwords | Length defined by user
+- Master "Passwords" file, hidden file as .passwords
+- Saves the generated password under .passwords directory
