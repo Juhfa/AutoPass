@@ -12,3 +12,14 @@ AutoPass is a terminal based password generator.
 - Generates passwords | Length defined by user
 - Master "Passwords" file, hidden file as .passwords
 - Saves the generated password under .passwords directory
+
+---------------------------------
+* Dependencies
+- pyfiglet
+- termcolor
+
+** Installation
+- pip install pyfiglet
+- pip install termcolor
+---------------------------------
+
